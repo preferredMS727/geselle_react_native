@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "613157658633",
+    "firebase_url": "https://consumer-app-237109.firebaseio.com",
+    "project_id": "consumer-app-237109",
+    "storage_bucket": "consumer-app-237109.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613157658633:android:464dbdcf2c9b3246",
+        "android_client_info": {
+          "package_name": "se.geselle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613157658633-aocmhkvukluhhn075tdgk0ocjvp2a70g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "se.geselle",
+            "certificate_hash": "e78d954f929601fb0617daf1adf3ea1b71251680"
+          }
+        },
+        {
+          "client_id": "613157658633-tlldgpnkkeah44scieuthbvj7kmvf8i0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "se.geselle",
+            "certificate_hash": "a6fdf29f1e1daff4d6c0c31334a803a51fd48a3d"
+          }
+        },
+        {
+          "client_id": "613157658633-op4jfj344i66648485cp4124ot1mcbnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARht04HVc1EtrIud0n_QKo8yojEoFJIuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613157658633-op4jfj344i66648485cp4124ot1mcbnr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "613157658633-8kg7vtj925anpha09lt9pb92cj4ka7r9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "se.geselle"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

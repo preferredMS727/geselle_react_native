@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Geselle</string>
+    <string name="fb_app_id">395576891231829</string>
+    <string name="fb_login_protocol_scheme">fb395576891231829</string>
+</resources>
