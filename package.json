@@ -11,7 +11,7 @@
     "accordion-collapse-react-native": "^0.1.9",
     "axios": "^0.18.0",
     "immutable": "^4.0.0-rc.12",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "native-base": "^2.10.0",
     "react": "16.6.3",
     "react-native": "0.57.8",
